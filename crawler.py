@@ -4,6 +4,7 @@ A web crawler for extracting email addresses from web pages.
 Takes a string of URLs and requests each page, checks to see if we've
 found any emails and prints each email it finds.
 '''
+
 #python crawler.py --urls https://med.uth.edu/pediatrics/adolescent-medicine/,https://med.uth.edu/pediatrics/cardiology/,https://med.uth.edu/pediatrics/community-general-pediatrics/,https://med.uth.edu/pediatrics/critical-care-medicine/,https://med.uth.edu/pediatrics/endocrinology/,https://med.uth.edu/pediatrics/gastroenterology/,https://med.uth.edu/pediatrics/hematology/,https://med.uth.edu/pediatrics/infectious-diseases/,https://med.uth.edu/pediatrics/medical-genetics/,https://med.uth.edu/pediatrics/neonatology/,https://med.uth.edu/pediatrics/nephrology-hypertension/,https://med.uth.edu/pediatrics/neurology/,https://med.uth.edu/pediatrics/pediatric-hospital-medicine/,https://med.uth.edu/pediatrics/pediatric-research-center/
 
 #python crawler.py --urls https://dellmed.utexas.edu/search?searchCriteria=eyJnIjoiZGlyZWN0b3J5IiwiZiI6W3siaWQiOiI5IiwidmFsdWUiOlsiNDg0OSJdfV19
